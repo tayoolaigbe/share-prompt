@@ -12,7 +12,7 @@ const PromptCardList = ({ data, handleTagClick }) => {
 					post={post}
 					handleTagClick={handleTagClick}
 				/>
-			))}{' '}
+			))}
 		</div>
 	);
 };
